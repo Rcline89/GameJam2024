@@ -17,7 +17,13 @@
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HO/KZK5KXL8SFKRA8RQXPPZWY.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/W8/VQ15ZV24PIL58NNC823GUT.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/HumanObstacle.uasset",
-				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I6/0G7P9NWLFHKG24N9OR5PUX.uasset"
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I6/0G7P9NWLFHKG24N9OR5PUX.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Human.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Misc/PickupNames.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Misc/PickupStruct.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Misc/PickupList.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Misc/ClickIconTimeline.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RG/HJRHO2C4U4C6GTSY9YNJGB.uasset"
 			]
 		}
 	]
