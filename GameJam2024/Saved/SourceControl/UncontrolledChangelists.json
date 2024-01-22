@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/ClownCharacter.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Crowd.uasset",
+				"D:/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/NA03OZZF80KEQROXQPX2X3.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Pickup.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/01/9OVCQTN1RSVXUQ3N70NFAL.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/EnumsAndStructs/PickupStruct.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/EnumsAndStructs/PickupList.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/EnumsAndStructs/PickupNames.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HO/KZK5KXL8SFKRA8RQXPPZWY.uasset"
+			]
+		}
+	]
+}
