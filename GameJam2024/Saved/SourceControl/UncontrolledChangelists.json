@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+>>>>>>> Stashed changes
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/ClownCharacter.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Crowd.uasset",
 				"D:/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
