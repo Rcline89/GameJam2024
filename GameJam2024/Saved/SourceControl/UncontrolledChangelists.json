@@ -5,6 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/Crowd.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/NA03OZZF80KEQROXQPX2X3.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RG/HJRHO2C4U4C6GTSY9YNJGB.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UL/ABOI0NCWLGQP9LMXHF2EFB.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LG/U3PL3V2RUYAZJHYF0SI088.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N3/UQQJBDAPRFQDA9543XAL9K.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7V/WN6Y5PIL1MO45QUYUXIYBG.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/0/EC/8TSV828TFL754F1VIAABR7.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/2/L0/OOZ6PN6U0P1YSV6J4GVCEN.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/2/Z7/YQAS8FB7OR3K1AS4NJ5CZY.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/5/DM/4HZTB94B8F0B9HJDQIGY7N.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/7/YC/JP0KM23082LW03LLG26BAL.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/A/RW/XL7AQC5YFVF813S5ZALU98.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/B/03/I3S12F3H0EKJ2VOBKNCYHV.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/C/CF/0COAZ9FGMJJCN2BK5TZPI9.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/C/TA/9HYR0ZXA8XLSUG6P3H1GHY.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Levels/Map_Grayboxing.umap",
+				"D:/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/PickupLocation.uasset",
 				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset"
 			]
 		}
