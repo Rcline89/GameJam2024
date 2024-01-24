@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/NA03OZZF80KEQROXQPX2X3.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UL/ABOI0NCWLGQP9LMXHF2EFB.uasset",
@@ -53,6 +54,14 @@
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Pickup.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LU/6CWC2NBCRI7WHN8OZFW167.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BS/Q70UIXOGUPG60WYM4D0YWD.uasset",
+=======
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/TimesUpScreen/TimesUpWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/Levels/Map_Grayboxing.umap",
+>>>>>>> Stashed changes
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/B/TA/WEY8UYPNE1SR3YMT7A2RV1.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Grayboxing/0/SI/JBQKRUQ3BQ8KWV8CIP5XAM.uasset",
