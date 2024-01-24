@@ -1,0 +1,2 @@
+/Game/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.Default__GameplayScreenWidgetBlueprint_C
+/Game/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.GameplayScreenWidgetBlueprint_C
