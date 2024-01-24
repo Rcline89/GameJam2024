@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Crowd.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/NA03OZZF80KEQROXQPX2X3.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RG/HJRHO2C4U4C6GTSY9YNJGB.uasset",
@@ -549,8 +551,7 @@
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/JayGraybox/5/UK/Z6FBA60C10E594RXCZGGM8.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/JayGraybox/B/2V/BBHQ218P5U7HIA1C8CQHIV.uasset",
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/JayGraybox/9/9D/YN4775MMJMPEU936V4YKQT.uasset",
-				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/JayGraybox/5/CM/0O24LDOT078BUA6P8464MC.uasset",
-				"C:/Users/shunt/OneDrive/Desktop/GGJ24/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset"
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/JayGraybox/5/CM/0O24LDOT078BUA6P8464MC.uasset"
 			]
 		}
 	]
