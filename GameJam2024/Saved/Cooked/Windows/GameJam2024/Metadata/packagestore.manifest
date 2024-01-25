@@ -1489,6 +1489,10 @@
 			"ChunkId": "fbb438d0ff0700c700000001"
 		},
 		{
+			"Path": "GameJam2024/Content/Blueprints/Misc/ObjectFriction.uasset",
+			"ChunkId": "81af1c5aa86d724f00000001"
+		},
+		{
 			"Path": "GameJam2024/Content/Blueprints/Misc/PickupList.uasset",
 			"ChunkId": "4fc369a4090fe92400000001"
 		},
@@ -2471,6 +2475,10 @@
 		{
 			"Path": "GameJam2024/Content/Levels/Map_Grayboxing.umap",
 			"ChunkId": "27e0ef58e4e1c07400000001"
+		},
+		{
+			"Path": "GameJam2024/Content/Levels/Map_Party.umap",
+			"ChunkId": "47836dbecb87c88700000001"
 		},
 		{
 			"Path": "GameJam2024/Content/Materials/MI_PrototypeGrid_Gray_02.uasset",
@@ -4394,6 +4402,12 @@
 			"Name": "/Game/__ExternalObjects__/Levels/Map_Grayboxing/D/RF/2W9E760916IUWMP9P51SF1"
 		},
 		{
+			"Name": "/Game/__ExternalObjects__/Levels/Map_Party/7/XC/STUAP72ZMKSLOR9ML85VMT"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Levels/Map_Party/8/T0/Y1LRYDNQMIC5T4H1AAETYZ"
+		},
+		{
 			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L"
 		},
 		{
@@ -4445,6 +4459,12 @@
 			"Name": "/Game/Blueprints/Misc/ClickIconTimeline",
 			"ExportBundleChunkIds": [
 				"fbb438d0ff0700c700000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Misc/ObjectFriction",
+			"ExportBundleChunkIds": [
+				"81af1c5aa86d724f00000001"
 			]
 		},
 		{
@@ -5798,6 +5818,12 @@
 			"Name": "/Game/Levels/Map_Grayboxing",
 			"ExportBundleChunkIds": [
 				"27e0ef58e4e1c07400000001"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Map_Party",
+			"ExportBundleChunkIds": [
+				"47836dbecb87c88700000001"
 			]
 		},
 		{
