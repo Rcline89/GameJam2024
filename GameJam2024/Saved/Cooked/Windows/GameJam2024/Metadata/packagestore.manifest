@@ -729,6 +729,10 @@
 			"ChunkId": "1f97eea17afa137600000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uasset",
+			"ChunkId": "6e4c5db4eeb542e900000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
 			"ChunkId": "8d4486caf50605b200000001"
 		},
@@ -4162,6 +4166,12 @@
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/HueShift",
 			"ExportBundleChunkIds": [
 				"1f97eea17afa137600000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Lerp_3Color",
+			"ExportBundleChunkIds": [
+				"6e4c5db4eeb542e900000001"
 			]
 		},
 		{
