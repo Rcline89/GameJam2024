@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/shunt/OneDrive/Desktop/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
+				"C:/Users/shunt/OneDrive/Desktop/GameJam2024/GameJam2024/Content/UIElements/PauseScreen/PauseScreenWidgetBlueprint.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Props/Pickups/NewPie.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Props/Pickups/Pie_Updated.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Characters/Clown/ClownRunAnimation.uasset",
