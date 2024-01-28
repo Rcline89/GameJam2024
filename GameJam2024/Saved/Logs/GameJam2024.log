@@ -8748,3 +8748,10 @@ Script Stack (0 frames) :
 [2024.01.28-15.59.43:667][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
 [2024.01.28-15.59.44:705][855]LogSlate: Window 'Message Log' being destroyed
 [2024.01.28-15.59.44:721][855]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-16.03.24:397][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-16.03.24:558][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.28-16.03.24:606][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.28-16.03.24:647][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.28-16.03.24:665][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 1:15 min)
+[2024.01.28-16.03.25:660][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-16.03.27:166][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
