@@ -10171,3 +10171,5 @@ Script Stack (0 frames) :
 [2024.01.28-16.25.31:060][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 369 ms (total: 1:26 min)
 [2024.01.28-16.25.31:119][802]AssetCheck: New page: Asset Save: NS_Crowd_AOE
 [2024.01.28-16.25.31:119][802]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagaras/NS_Crowd_AOE.NS_Crowd_AOE
+[2024.01.28-16.26.37:205][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.28-16.26.38:416][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
