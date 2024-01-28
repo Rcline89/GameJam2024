@@ -10150,24 +10150,3 @@ Script Stack (0 frames) :
 [2024.01.28-16.25.11:121][218]LogOutputDevice: Error: [Callstack] 0x00007ffd204c257d KERNEL32.DLL!UnknownFunction []
 [2024.01.28-16.25.11:121][218]LogOutputDevice: Error: [Callstack] 0x00007ffd2164aa58 ntdll.dll!UnknownFunction []
 [2024.01.28-16.25.11:121][218]LogOutputDevice: Error: 
-[2024.01.28-16.25.11:123][218]LogStats:                SubmitErrorReport -  0.000 s
-[2024.01.28-16.25.13:240][218]LogStats:                    SendNewReport -  2.117 s
-[2024.01.28-16.25.13:241][218]LogStats:             FDebug::EnsureFailed -  2.193 s
-[2024.01.28-16.25.13:248][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
-[2024.01.28-16.25.13:310][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2024.01.28-16.25.13:461][219]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.01.28-16.25.29:195][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.01.28-16.25.29:277][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagaras/NS_Crowd_AOE" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/VFX/Niagaras/NS_Crowd_AOE.uasset" SILENT=true
-[2024.01.28-16.25.29:484][775]LogSavePackage: Moving output files for package: /Game/VFX/Niagaras/NS_Crowd_AOE
-[2024.01.28-16.25.29:486][775]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/NS_Crowd_AOE1C4242604737E75DE99AD6BBD1D42C1C.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/VFX/Niagaras/NS_Crowd_AOE.uasset'
-[2024.01.28-16.25.29:497][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 1:26 min)
-[2024.01.28-16.25.29:552][775]AssetCheck: New page: Asset Save: NS_Crowd_AOE
-[2024.01.28-16.25.29:552][775]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagaras/NS_Crowd_AOE.NS_Crowd_AOE
-[2024.01.28-16.25.30:229][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
-[2024.01.28-16.25.30:690][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.01.28-16.25.30:802][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagaras/NS_Crowd_AOE" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/VFX/Niagaras/NS_Crowd_AOE.uasset" SILENT=true
-[2024.01.28-16.25.31:040][802]LogSavePackage: Moving output files for package: /Game/VFX/Niagaras/NS_Crowd_AOE
-[2024.01.28-16.25.31:041][802]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/NS_Crowd_AOE0C48D4F54F8A2550A16FF9BA712B8EBD.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/VFX/Niagaras/NS_Crowd_AOE.uasset'
-[2024.01.28-16.25.31:060][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 369 ms (total: 1:26 min)
-[2024.01.28-16.25.31:119][802]AssetCheck: New page: Asset Save: NS_Crowd_AOE
-[2024.01.28-16.25.31:119][802]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagaras/NS_Crowd_AOE.NS_Crowd_AOE
