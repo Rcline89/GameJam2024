@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/7/C2/O9RSG71GZNRICF00O4N7JB.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Child.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Crowd.uasset",
@@ -827,6 +828,16 @@
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/5/Z9/7DTBSCGE3ZRG239A7E2ZSH.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_GoButton.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_BackButtonClick.uasset"
+=======
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Item_Spawn_Cue.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Props/Pickups/Materials/t_balloonanimal1.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Props/Pickups/Materials/MI_BalloonAnimal_Inst.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/VFX/Niagaras/NS_Balloon.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Props/Pickups/Prop_Pickup_BalloonAnimal_Alt.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/9/CN/P8CQQ5U6VFEHZ8SBHVR8JT.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Item_Spawn.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
