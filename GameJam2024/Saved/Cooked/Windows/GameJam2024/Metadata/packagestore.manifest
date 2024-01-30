@@ -2369,6 +2369,10 @@
 			"ChunkId": "63650834347edc5100000001"
 		},
 		{
+			"Path": "GameJam2024/Content/Blueprints/Misc/Testing/OurMaskedSpriteMat3.uasset",
+			"ChunkId": "2bc18179e3f5be5500000001"
+		},
+		{
 			"Path": "GameJam2024/Content/Blueprints/Misc/Testing/PurpleColor.uasset",
 			"ChunkId": "455e8ac6439aa9c100000001"
 		},
@@ -3675,6 +3679,14 @@
 		{
 			"Path": "GameJam2024/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
 			"ChunkId": "4fec0163af43e6cc00000002"
+		},
+		{
+			"Path": "GameJam2024/Content/Levels/_GENERATED/Jay/Rectangle_67D71786.uasset",
+			"ChunkId": "b564e35f85ad593700000001"
+		},
+		{
+			"Path": "GameJam2024/Content/Levels/_GENERATED/Jay/Rectangle_67D71786.ubulk",
+			"ChunkId": "b564e35f85ad593700000002"
 		},
 		{
 			"Path": "GameJam2024/Content/Levels/_GENERATED/Littl/Box_A728463A.uasset",
@@ -5815,6 +5827,14 @@
 		{
 			"Path": "GameJam2024/Content/Props/Rainbow.ubulk",
 			"ChunkId": "d4c6f69df37b9b7700000002"
+		},
+		{
+			"Path": "GameJam2024/Content/Splash/EdSplash.uasset",
+			"ChunkId": "3791d92f4c329e1200000001"
+		},
+		{
+			"Path": "GameJam2024/Content/Splash/Splash.uasset",
+			"ChunkId": "9d6adc5d5486480800000001"
 		},
 		{
 			"Path": "GameJam2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -9137,6 +9157,12 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/Misc/Testing/OurMaskedSpriteMat3",
+			"ExportBundleChunkIds": [
+				"2bc18179e3f5be5500000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/Misc/Testing/PurpleColor",
 			"ExportBundleChunkIds": [
 				"455e8ac6439aa9c100000001"
@@ -10916,6 +10942,15 @@
 			],
 			"BulkDataChunkIds": [
 				"4fec0163af43e6cc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/_GENERATED/Jay/Rectangle_67D71786",
+			"ExportBundleChunkIds": [
+				"b564e35f85ad593700000001"
+			],
+			"BulkDataChunkIds": [
+				"b564e35f85ad593700000002"
 			]
 		},
 		{
@@ -13632,6 +13667,18 @@
 		},
 		{
 			"Name": "/Game/Props/TomatoPlant_01"
+		},
+		{
+			"Name": "/Game/Splash/EdSplash",
+			"ExportBundleChunkIds": [
+				"3791d92f4c329e1200000001"
+			]
+		},
+		{
+			"Name": "/Game/Splash/Splash",
+			"ExportBundleChunkIds": [
+				"9d6adc5d5486480800000001"
+			]
 		},
 		{
 			"Name": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter",

@@ -336,8 +336,8 @@ Engine:/Script/Engine.Engine:DefaultSelectedMaterialColor:0=(R=0.84,G=0.92,B=0.0
 Engine:/Script/Engine.Engine:bEnableOnScreenDebugMessages:0=true
 Engine:/Script/Engine.Engine:DurationOfErrorsAndWarningsOnHUD:0=0
 Engine:/Script/Engine.Engine:NearClipPlane:0=10.0
-Engine:/Script/Engine.Engine:ActiveGameNameRedirects:0=(OldGameName="TP_ThirdPersonBP",NewGameName="/Script/GameJam2024")
-Engine:/Script/Engine.Engine:ActiveGameNameRedirects:1=(OldGameName="/Script/TP_ThirdPersonBP",NewGameName="/Script/GameJam2024")
+Engine:/Script/Engine.Engine:ActiveGameNameRedirects:0=(OldGameName="TP_ThirdPersonBP",NewGameName="/Script/WheresThatClown")
+Engine:/Script/Engine.Engine:ActiveGameNameRedirects:1=(OldGameName="/Script/TP_ThirdPersonBP",NewGameName="/Script/WheresThatClown")
 Engine:CoreUObject.Metadata:MetadataRedirects:0=(OldKey="K2Protected", NewKey="BlueprintProtected")
 Engine:CoreUObject.Metadata:MetadataRedirects:1=(OldKey="K2UnsafeForConstructionScripts", NewKey="UnsafeDuringActorConstruction")
 Engine:CoreUObject.Metadata:MetadataRedirects:2=(OldKey="KismetType", NewKey="BlueprintType")
@@ -707,7 +707,7 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bReportS
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ConnectionType:0=USBOnly
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="D/GameJam2024_Builds/Windows")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="D/GameJam2024_Builds/WheresThatClown")
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
@@ -751,7 +751,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:CopyrightNotice:0=Fill out yo
 Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=A clown must keep an impatient party entertained in this arcade style game
 Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Where's That Clown?
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Wheres That Clown
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
