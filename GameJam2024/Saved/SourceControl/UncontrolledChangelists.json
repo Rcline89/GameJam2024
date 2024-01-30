@@ -5,6 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/D/QI/QTD40EJ2ANPPUZLEG6JU4U.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/5/JW/48TD705PITQ15JDL8D34NT.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/5/NF/BKRZKXUWO7J9QK8M792DV7.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/6/KH/MN2MCTSTCJCVMGO6JO5H69.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/B/PL/7KKE81N0BBGY8OTOHCW4ZU.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/0/SK/CX8C3HIUQG2WS7ZABTRN09.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/5/Z9/7DTBSCGE3ZRG239A7E2ZSH.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_GoButton.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_BackButtonClick.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/Splash/Splash.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/Splash/EdSplash.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Splash/EdSplash.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Splash/Splash.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Music/Cue_MusicEnd.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Music/Cue_MusicGameloop.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/4/72/8XU484VVGFC4V38Z8IHGX5.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/Icons/T_Haha.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/Icons/Title_01_GJ2024.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/C/UO/UIOBR0SGN5DYXXA3ILINFH.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/PostProduction/Flyover.uasset",
+				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/E/AB/ZIP7GM7T7BD5RV677KVQ52.uasset",
 				"C:/Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/UIElements/Icons/LMB_UI_GJ2024.uasset",
 				"C:/Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/UIElements/Icons/RMB_UI_GJ2024.uasset",
 				"C:/Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
@@ -742,6 +764,7 @@
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Pickup.uasset",
 				"D:/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
 				"D:/GameJam2024/GameJam2024/Content/UIElements/Icons/LMB_UI_GJ2024_Sprite.uasset",
+<<<<<<< Updated upstream
 				"D:/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Audio/Cue_PickupBalloonAnimal.uasset",
 				"D:/GameJam2024/GameJam2024/Content/Blueprints/Adult.uasset",
@@ -812,6 +835,9 @@
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/5/Z9/7DTBSCGE3ZRG239A7E2ZSH.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_GoButton.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/Audio/Cue_BackButtonClick.uasset"
+=======
+				"D:/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
