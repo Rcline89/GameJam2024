@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJam2024/GameJam2024/Content/UIElements/GameplayScreen/GameplayScreenWidgetBlueprint.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/ClownCharacter.uasset",
+				"D:/GameJam2024/GameJam2024/Content/Blueprints/ClownCharacter_Zach.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UIElements/TimesUpScreen/TimesUpWidgetBlueprint.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/MainMenu/MainMenuWidgetBlueprint.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/Icons/BalloonButton_02.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UIElements/PauseScreen/PauseScreenWidgetBlueprint.uasset",
