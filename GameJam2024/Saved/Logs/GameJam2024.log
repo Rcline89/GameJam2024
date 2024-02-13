@@ -1659,3 +1659,498 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.02.13-18.59.11:642][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.02.13-18.59.11:653][749]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2024.02.13-18.59.11:665][749]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.00.56:539][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.00.56:569][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.00.56:657][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.01.00:064][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Crowd.Crowd
+[2024.02.13-19.01.00:067][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.01.00:067][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-19.01.02:062][203]LogSlate: Took 0.002088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.13-19.01.03:602][254]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.02.13-19.01.25:976][350]LogSlate: Took 0.027004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.13-19.01.27:622][421]LogDerivedDataCache: C:/Users/Quynh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:20.264 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 41663 files in 42106 folders with total size 1291 MiB.
+[2024.02.13-19.06.33:143][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:167][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:204][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:250][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:291][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:335][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:386][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:425][331]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.33:461][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.06.36:264][485]LogShaderCompilers: Display: ================================================
+[2024.02.13-19.06.36:264][485]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.13-19.06.36:264][485]LogShaderCompilers: Display: Total job queries 144, among them cache hits 19 (13.19%)
+[2024.02.13-19.06.36:264][485]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 102 distinct outputs (81.60%)
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: RAM used: 2.84 MiB of 819.20 MiB budget. Usage: 0.35%
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100.00%)
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 1.58 s
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Job life time (pending + execution): average 1.62 s, max 1.62
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.62 s
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Average processing rate: 0.62 jobs/sec
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Total thread time: 0.395 s
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Total thread preprocess time: 0.051 s
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Percentage time preprocessing: 13.00%
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Effective parallelization: 0.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.02.13-19.06.36:265][485]LogShaderCompilers: Display: ================================================
+[2024.02.13-19.06.41:867][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_Door.Env_Door
+[2024.02.13-19.06.41:868][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_Door.Env_Door
+[2024.02.13-19.06.41:870][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_Door.Env_Door as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_0
+[2024.02.13-19.06.42:768][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_Door.Env_Door
+[2024.02.13-19.06.42:768][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_Door.Env_Door
+[2024.02.13-19.06.42:781][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_Door.Env_Door as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B314D901_1951688859
+[2024.02.13-19.08.09:937][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.08.11:424][ 58]LogContentBrowser: Deferred new asset file creation: Env_Door1
+[2024.02.13-19.08.11:433][ 58]LogContentBrowser: Creating deferred item: Env_Door1
+[2024.02.13-19.08.11:469][ 59]LogContentBrowser: Renaming the item being created (Deferred Item: Env_Door1).
+[2024.02.13-19.08.14:114][215]LogContentBrowser: Attempting asset rename: Env_Door1 -> Env_DoorPivot
+[2024.02.13-19.08.14:131][215]LogContentBrowser: End creating deferred item Env_Door1
+[2024.02.13-19.08.38:533][513]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.13-19.08.52:667][146]Cmd: ACTOR BAKEPREPIVOT
+[2024.02.13-19.08.54:422][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.08.54:559][241]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.012042 seconds
+[2024.02.13-19.08.54:566][241]LogSerialization: UsePackageTrailer: 'true'
+[2024.02.13-19.08.54:573][241]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Map_Party/E/34/8U2SZ2D8RHQN819FEB7VKD
+[2024.02.13-19.08.54:573][241]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/8U2SZ2D8RHQN819FEB7VKD365EC5F849926E3ECEEE2DA2EB187587.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/E/34/8U2SZ2D8RHQN819FEB7VKD.uasset'
+[2024.02.13-19.08.54:605][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms
+[2024.02.13-19.08.54:610][241]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_30F6EFE079B314D901_1951688859
+[2024.02.13-19.08.54:611][241]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B314D901_1951688859
+[2024.02.13-19.09.03:265][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.09.03:265][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.09.03:265][420]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_2
+[2024.02.13-19.09.03:311][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.09.03:600][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.09.03:600][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.09.03:605][431]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B314D901_2092520860
+[2024.02.13-19.09.07:835][657]Cmd: DELETE
+[2024.02.13-19.09.07:835][657]Cmd: ACTOR DELETE
+[2024.02.13-19.09.07:862][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.13-19.09.07:901][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.13-19.09.07:905][657]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.02.13-19.09.33:645][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.13-19.09.33:647][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map_Party' took 0.035
+[2024.02.13-19.09.33:648][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Env_DoorPivot] ([1] browsable assets)...
+[2024.02.13-19.09.33:726][835]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot]
+[2024.02.13-19.09.33:727][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Env_DoorPivot]
+[2024.02.13-19.09.33:744][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Props/Env_DoorPivot_Auto1
+[2024.02.13-19.09.33:744][835]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/Env_DoorPivot_Auto1502BFD024B49E377B7BFBA9EAB314E49.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/Autosaves/Game/Props/Env_DoorPivot_Auto1.uasset'
+[2024.02.13-19.09.33:746][835]LogFileHelpers: Auto-saving content packages took 0.098
+[2024.02.13-19.09.51:327][670]Cmd: PIVOT SNAPPED
+[2024.02.13-19.10.00:818][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.10.00:818][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.10.00:819][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_3
+[2024.02.13-19.10.00:902][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.10.01:006][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.10.01:006][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.10.01:009][161]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot as actor: StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B315D901_1076185037
+[2024.02.13-19.13.31:874][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.13-19.13.31:894][215]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.13-19.13.31:910][215]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.13-19.13.31:940][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.13-19.13.36:574][466]LogContentBrowser: Attempting asset rename: NewBlueprint -> DoorBP
+[2024.02.13-19.13.36:584][466]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.13-19.13.37:445][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.13.37:445][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.13.37:445][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-19.13.37:892][516]LogViewport: Scene viewport resized to 674x251, mode Windowed.
+[2024.02.13-19.13.40:177][622]LogViewport: Scene viewport resized to 672x269, mode Windowed.
+[2024.02.13-19.13.40:280][624]LogViewport: Scene viewport resized to 464x149, mode Windowed.
+[2024.02.13-19.13.40:534][631]LogViewport: Scene viewport resized to 1139x559, mode Windowed.
+[2024.02.13-19.13.40:916][650]LogSlate: Window 'DoorBP' being destroyed
+[2024.02.13-19.13.40:931][650]LogViewport: Scene viewport resized to 1139x596, mode Windowed.
+[2024.02.13-19.13.40:969][651]LogViewport: Scene viewport resized to 1139x585, mode Windowed.
+[2024.02.13-19.13.41:006][652]LogViewport: Scene viewport resized to 1139x574, mode Windowed.
+[2024.02.13-19.13.41:027][653]LogViewport: Scene viewport resized to 1139x568, mode Windowed.
+[2024.02.13-19.13.41:045][654]LogViewport: Scene viewport resized to 1139x563, mode Windowed.
+[2024.02.13-19.13.41:065][655]LogViewport: Scene viewport resized to 1139x559, mode Windowed.
+[2024.02.13-19.13.50:694][147]LogSlate: Took 0.016047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.13-19.13.54:749][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.14.11:123][185]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.14.11:142][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.14.11:142][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-19.14.12:110][185]LogViewport: Scene viewport resized to 1403x968, mode Windowed.
+[2024.02.13-19.14.46:946][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.14.47:158][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.14.47:207][921]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.14.47:207][921]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPD7F120DE4A45D5BCD80DB1952F37DD2D.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.14.47:252][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 306 ms (total: 488 ms)
+[2024.02.13-19.14.47:269][921]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.14.47:269][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.05:011][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.05:142][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.05:156][857]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.05:157][857]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPEF7FFD1F47A7E15FD014A0AE30F53C26.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.05:168][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 645 ms)
+[2024.02.13-19.15.05:172][857]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.05:172][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.05:689][881]Cmd: TRANSACTION UNDO
+[2024.02.13-19.15.05:689][881]LogEditorTransaction: Undo New Time Entered
+[2024.02.13-19.15.16:871][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.17:102][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.17:159][405]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.17:165][405]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP64558E584194048F7879F790BD73720D.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.17:234][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 362 ms (total: 1.00 sec)
+[2024.02.13-19.15.17:261][405]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.17:261][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.19:268][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.13-19.15.19:272][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.19:395][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Map_Party/E/34/8U2SZ2D8RHQN819FEB7VKD
+[2024.02.13-19.15.19:396][500]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/8U2SZ2D8RHQN819FEB7VKDA1DCC005443A72A0B2EE479B7B785F2E.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/E/34/8U2SZ2D8RHQN819FEB7VKD.uasset'
+[2024.02.13-19.15.19:405][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Map_Party/C/N6/53QN83YDD2OD0GA31OSSPT
+[2024.02.13-19.15.19:405][500]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/53QN83YDD2OD0GA31OSSPTA0EFEFA24982DFFA53B2E5BE6C3BC386.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/C/N6/53QN83YDD2OD0GA31OSSPT.uasset'
+[2024.02.13-19.15.19:409][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Env_DoorPivot" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Props/Env_DoorPivot.uasset" SILENT=true
+[2024.02.13-19.15.19:420][500]LogSavePackage: Moving output files for package: /Game/Props/Env_DoorPivot
+[2024.02.13-19.15.19:420][500]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/Env_DoorPivot0A56736F40EE221E48FD6EB1D8CA3AEF.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Props/Env_DoorPivot.uasset'
+[2024.02.13-19.15.19:442][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 1.17 sec)
+[2024.02.13-19.15.19:449][500]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-19.15.19:449][500]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B315D901_1076185037
+[2024.02.13-19.15.19:449][500]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Map_Party.Map_Party:PersistentLevel.StaticMeshActor_UAID_30F6EFE079B314D901_1951688859
+[2024.02.13-19.15.19:449][500]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Props/Env_DoorPivot.Env_DoorPivot
+[2024.02.13-19.15.19:631][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.13-19.15.20:891][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.21:062][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.21:079][581]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.21:080][581]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPF46742014FD3E3E570D9C8A47CEFBB2C.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.21:092][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 1.37 sec)
+[2024.02.13-19.15.21:098][581]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.21:098][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.21:823][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.13-19.15.22:431][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.22:702][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.22:725][632]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.22:726][632]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPEFD754AF4C4311954BA91FA9276A3A89.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.22:739][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 1.68 sec)
+[2024.02.13-19.15.22:745][632]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.22:745][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.25:951][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.26:106][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.26:120][779]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.26:122][779]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPF178B354457BC0CFECB68BA59552E5F1.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.26:133][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 1.87 sec)
+[2024.02.13-19.15.26:138][779]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.26:139][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.26:428][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.13-19.15.27:001][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.27:113][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.27:126][813]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.27:127][813]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP652BDC284C0D7C38D23A2C83DF160072.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.27:136][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 2.00 sec)
+[2024.02.13-19.15.27:140][813]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.27:140][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.29:433][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.29:719][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.29:735][908]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.29:736][908]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP25C73E47445062D977FCBE939198BAB5.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.29:766][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 2.33 sec)
+[2024.02.13-19.15.29:790][908]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.29:790][908]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.29:846][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.13-19.15.30:268][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.30:452][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.30:464][925]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.30:465][925]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP412DF22B42B7451757800DAD2F1677D7.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.30:478][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 2.54 sec)
+[2024.02.13-19.15.30:482][925]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.30:482][925]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.30:552][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.30:787][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.30:820][928]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.30:824][928]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP41E5FC6043C19C1133536DBCD664D50B.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.30:856][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 2.85 sec)
+[2024.02.13-19.15.30:862][928]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.30:862][928]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.31:074][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.31:444][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.31:484][941]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.31:490][941]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPCAC9FC094ED9D5C4B636EDA570BFAF15.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.31:507][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 433 ms (total: 3.28 sec)
+[2024.02.13-19.15.31:512][941]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.31:512][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.38:012][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.38:132][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.38:146][299]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.38:147][299]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP23F8951A40568608724EE8B406A1D602.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.38:157][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.43 sec)
+[2024.02.13-19.15.38:161][299]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.38:161][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.40:380][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.40:731][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.40:744][423]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.40:746][423]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP99660F44440B410D9798AAB97499B7D7.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.40:758][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 378 ms (total: 3.80 sec)
+[2024.02.13-19.15.40:765][423]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.40:765][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.15.41:095][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.13-19.15.41:388][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.13-19.15.41:574][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.15.41:685][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.15.41:698][454]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.15.41:699][454]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP146966B740334DC3F2D466B31223F86C.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.15.41:709][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 3.94 sec)
+[2024.02.13-19.15.41:714][454]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.15.41:714][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.16.28:765][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.16.29:074][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.16.29:091][266]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.16.29:092][266]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP44C0DF474EDDAA3BC70441930F68F095.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.16.29:104][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 4.28 sec)
+[2024.02.13-19.16.29:109][266]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.16.29:109][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.16.29:163][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.13-19.16.29:707][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.13-19.16.30:049][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.16.30:202][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.16.30:216][305]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.16.30:217][305]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP66969EE648AB7BF37504DEAE15693516.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.16.30:229][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 4.46 sec)
+[2024.02.13-19.16.30:234][305]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.16.30:234][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.16.30:632][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.16.30:872][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.16.30:906][320]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.16.30:911][320]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPBDFF746B49E8CE72697A22B630C805FE.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.16.31:014][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 381 ms (total: 4.84 sec)
+[2024.02.13-19.16.31:029][320]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.16.31:029][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.17.32:326][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.17.32:507][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.17.32:530][306]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.17.32:531][306]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP1F1A13F645A830BA89C3699A26108D0F.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.17.32:559][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 5.07 sec)
+[2024.02.13-19.17.32:566][306]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.17.32:566][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.17.32:766][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.02.13-19.17.33:439][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.13-19.17.35:322][435]BlueprintLog: New page: Compile DoorBP
+[2024.02.13-19.17.35:332][435]LogBlueprint: Warning: [AssetLog] C:\Users\Quynh\Documents\GitHub\GameJam2024\GameJam2024\Content\Blueprints\DoorBP.uasset: [Compiler] On Component End Overlap (Box)  does not have a valid matching component!
+[2024.02.13-19.17.35:332][435]LogBlueprint: Warning: [AssetLog] C:\Users\Quynh\Documents\GitHub\GameJam2024\GameJam2024\Content\Blueprints\DoorBP.uasset: [Compiler] On Component Begin Overlap (Box)  does not have a valid matching component!
+[2024.02.13-19.17.35:465][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.13-19.17.36:175][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.17.36:430][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.17.36:482][466]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.17.36:483][466]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP2BC5437840424D501664219B27807F6C.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.17.36:522][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 345 ms (total: 5.42 sec)
+[2024.02.13-19.17.36:535][466]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.17.36:536][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.17.40:752][662]LogViewport: Scene viewport resized to 1308x559, mode Windowed.
+[2024.02.13-19.17.50:816][206]LogViewport: Scene viewport resized to 1295x559, mode Windowed.
+[2024.02.13-19.17.50:855][208]LogViewport: Scene viewport resized to 1263x559, mode Windowed.
+[2024.02.13-19.17.50:873][209]LogViewport: Scene viewport resized to 1251x559, mode Windowed.
+[2024.02.13-19.17.50:899][210]LogViewport: Scene viewport resized to 1236x559, mode Windowed.
+[2024.02.13-19.17.50:919][211]LogViewport: Scene viewport resized to 1220x559, mode Windowed.
+[2024.02.13-19.17.50:940][212]LogViewport: Scene viewport resized to 1208x559, mode Windowed.
+[2024.02.13-19.17.50:978][214]LogViewport: Scene viewport resized to 1196x559, mode Windowed.
+[2024.02.13-19.17.51:012][216]LogViewport: Scene viewport resized to 1177x559, mode Windowed.
+[2024.02.13-19.17.51:049][218]LogViewport: Scene viewport resized to 1169x559, mode Windowed.
+[2024.02.13-19.17.51:086][220]LogViewport: Scene viewport resized to 1167x559, mode Windowed.
+[2024.02.13-19.17.51:152][224]LogViewport: Scene viewport resized to 1159x559, mode Windowed.
+[2024.02.13-19.17.51:198][226]LogViewport: Scene viewport resized to 1153x559, mode Windowed.
+[2024.02.13-19.17.57:225][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.17.57:386][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.17.57:403][535]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.17.57:404][535]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPC26C593E4ABAB6EFD0518FB275D8A12A.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.17.57:418][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 5.61 sec)
+[2024.02.13-19.17.57:429][535]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.17.57:430][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.17.57:892][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.17.57:979][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.17.57:992][553]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.17.57:992][553]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBPD4D3A30C47369B3CFC016AB634F39218.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.17.58:049][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 5.77 sec)
+[2024.02.13-19.17.58:102][553]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.17.58:102][553]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.17.58:267][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.13-19.17.58:650][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.17.58:737][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorBP" FILE="../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset" SILENT=true
+[2024.02.13-19.17.58:751][580]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorBP
+[2024.02.13-19.17.58:752][580]LogSavePackage: Moving '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Saved/DoorBP970DA21D454B2006095EA0A7D291D504.tmp' to '../../../../../../Users/Quynh/Documents/GitHub/GameJam2024/GameJam2024/Content/Blueprints/DoorBP.uasset'
+[2024.02.13-19.17.58:763][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 5.88 sec)
+[2024.02.13-19.17.58:767][580]AssetCheck: New page: Asset Save: DoorBP
+[2024.02.13-19.17.58:767][580]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DoorBP.DoorBP
+[2024.02.13-19.18.01:860][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.02:758][787]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-19.18.02:783][787]LogContentBundle: [Map_Party(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.13-19.18.02:791][787]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.13-19.18.02:791][787]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.13-19.18.02:791][787]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 549 us)
+[2024.02.13-19.18.02:792][787]LogWorldPartition: Display: GenerateStreaming took 697 us (total: 3 ms)
+[2024.02.13-19.18.02:798][787]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.13-19.18.02:799][787]LogPlayLevel: [PlayLevel] Compiling DoorBP before play...
+[2024.02.13-19.18.02:892][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-19.18.02:895][787]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2024.02.13-19.18.02:895][787]PIE: New page: PIE session: Map_Party (Feb 14, 2024, 9:18:02 AM)
+[2024.02.13-19.18.02:895][787]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map_Party
+[2024.02.13-19.18.02:959][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064677s)
+[2024.02.13-19.18.02:959][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map_Party.Map_Party to /Game/Levels/UEDPIE_0_Map_Party.Map_Party (0.064748s)
+[2024.02.13-19.18.02:959][787]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.18.02:960][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-19.18.02:960][787]LogAIModule: Creating AISystem for world Map_Party
+[2024.02.13-19.18.02:961][787]LogWorldPartition: ULevel::OnLevelLoaded(Map_Party)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.13-19.18.02:961][787]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.13-19.18.02:961][787]LogWorldPartition: UWorldPartition::Initialize(Asset=Map_Party, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.13-19.18.02:977][787]LogContentBundle: [Map_Party(Standalone)] Creating new contrainer.
+[2024.02.13-19.18.02:977][787]LogWorldPartition: Display: WorldPartition initialize took 15 ms (total: 3.14 sec)
+[2024.02.13-19.18.02:977][787]LogPlayLevel: PIE: World Init took: (0.017446s)
+[2024.02.13-19.18.03:005][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.13-19.18.03:007][787]LogBlueprintUserMessages: [GameInstance_C_1] Hello
+[2024.02.13-19.18.03:007][787]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-19.18.03:007][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-19.18.03:007][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-19.18.03:008][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-19.18.03:008][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-19.18.03:008][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-19.18.03:010][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-19.18.03:102][787]LogAudioMixer: Display: Using Audio Hardware Device Logitech Headphones (Ton's BT) (G735 Gaming Headset)
+[2024.02.13-19.18.03:102][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-19.18.03:103][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-19.18.03:103][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-19.18.03:106][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.13-19.18.03:106][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.13-19.18.03:108][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.13-19.18.03:108][787]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.13-19.18.03:108][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.13-19.18.03:108][787]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_Party'.
+[2024.02.13-19.18.03:109][787]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.13-19.18.03:120][787]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.13-19.18.03:162][787]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map_Party.Map_Party up for play (max tick rate 60) at 2024.02.14-02.18.03
+[2024.02.13-19.18.03:170][787]LogWorld: Bringing up level for play took: 0.049058
+[2024.02.13-19.18.03:173][787]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.13-19.18.03:223][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.13-19.18.03:223][787]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.02.13-19.18.03:223][787]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.13-19.18.03:223][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.13-19.18.03:225][787]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.13-19.18.03:225][787]PIE: Server logged in
+[2024.02.13-19.18.03:226][787]PIE: Play in editor total start time 0.444 seconds.
+[2024.02.13-19.18.03:265][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:266][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:267][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:267][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:268][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:269][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:270][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:272][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:273][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:273][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:275][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:278][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:341][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:342][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:342][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:342][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:343][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:344][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:344][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:345][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:345][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:346][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:347][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.03:348][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.04:188][839]LogBlueprintUserMessages: [MainMenuWidgetBlueprint_C_0] HOVERPLAY
+[2024.02.13-19.18.04:436][853]LogBlueprintUserMessages: [MainMenuWidgetBlueprint_C_0] PLAY
+[2024.02.13-19.18.04:451][853]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:465][854]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:488][855]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:518][856]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:544][857]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:570][858]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:592][859]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:615][860]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:638][861]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:665][862]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:684][863]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:698][864]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:714][865]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:731][866]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:748][867]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:765][868]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:782][869]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:799][870]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:815][871]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:831][872]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:849][873]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:865][874]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:882][875]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:899][876]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:915][877]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:931][878]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:949][879]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:965][880]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:984][881]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.04:999][882]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:018][883]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:034][884]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:050][885]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:067][886]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:083][887]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:100][888]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:116][889]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:132][890]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:151][891]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:167][892]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:182][893]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:199][894]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:217][895]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:231][896]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:250][897]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:266][898]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:282][899]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:306][900]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:317][901]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:333][902]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:350][903]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:367][904]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:384][905]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:400][906]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:417][907]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:434][908]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:452][909]LogBlueprintUserMessages: [PerkMenu_C_0] ...
+[2024.02.13-19.18.05:458][910]LogBlueprintUserMessages: [ClownCharacter_Zach_C_0] jwpfhoifhiufhapf
+[2024.02.13-19.18.05:458][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.13-19.18.06:436][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-19.18.06:436][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map_Party
+[2024.02.13-19.18.06:437][956]LogWorld: UWorld::CleanupWorld for Map_Party, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-19.18.06:449][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-19.18.06:450][956]LogContentBundle: [Map_Party(Standalone)] Deleting container.
+[2024.02.13-19.18.06:478][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-19.18.06:491][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-19.18.06:571][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-19.18.06:575][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.13-19.18.06:575][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-19.18.06:579][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-19.18.06:591][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-19.18.06:611][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.02.13-19.18.06:703][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.06:722][957]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.13-19.18.06:759][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.18.10:748][130]Cmd: DELETE
+[2024.02.13-19.18.10:749][130]Cmd: ACTOR DELETE
+[2024.02.13-19.18.10:758][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.13-19.18.10:816][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.13-19.18.10:820][130]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2024.02.13-19.18.12:810][240]Cmd: DELETE
+[2024.02.13-19.18.12:810][240]Cmd: ACTOR DELETE
+[2024.02.13-19.18.12:814][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.13-19.18.12:846][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.13-19.18.12:849][240]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.02.13-19.18.13:931][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.18.14:125][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.13-19.18.14:179][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.13-19.18.14:223][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.13-19.18.14:248][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 316 ms (total: 6.20 sec)
+[2024.02.13-19.18.14:729][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.13-19.18.16:321][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
