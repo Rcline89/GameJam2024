@@ -10,10 +10,15 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Mac",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
