@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJam2024/GameJam2024/Content/UI/MainMenu/justforvis.uasset",
+				"D:/GameJam2024/GameJam2024/Content/__ExternalActors__/Levels/Map_Party/7/C2/O9RSG71GZNRICF00O4N7JB.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UI/MainMenu/TestMenu.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UI/GameplayScreen/PerkMenu.uasset",
+				"D:/GameJam2024/GameJam2024/Content/UI/PauseScreen/PauseScreenWidgetBlueprint.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UI/Icons/BalloonButtonPurple.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UI/Icons/BalloonButtonBlue.uasset",
 				"C:/Users/Littl/Projects/GlobalGameJam2024/GameJam2024/GameJam2024/Content/UI/Icons/BalloonButtonCyan.uasset",
